@@ -6,7 +6,7 @@
 <body>
 	<h1>Hello, World!</h1>
 	<?php
-		echo "Hello from PHP";
+		echo "<h2>Hello from PHP</h2>";
 	?>
 </body>
 </html>
